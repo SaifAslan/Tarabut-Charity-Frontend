@@ -1,0 +1,57 @@
+{
+  "common": {
+    "hello": "hello",
+    "home": "home",
+    "contact": "contact us",
+    "about": "about us",
+    "donateNow": "Donate Now",
+    "knowAboutUs": "Know About Us",
+    "quicklinks": "Quick Links",
+    "donating": "Donating",
+    "generalDonation": "General Donation",
+    "address": "Address"
+  },
+  "home": {
+    "welcomeSection": {
+      "h3": "Empowering Lives, Rebuilding Hope",
+      "h2": "Helping each other can make world better",
+      "h5": " Your support can change lives. Help us provide shelter, clothes, and education to those in need."
+    },
+    "ourCauses": {
+      "ourCauses": "our causes",
+      "subTitle": "Choose a cause and make a difference",
+      "title1": "Clothing Assistance",
+      "category1": "Refugees",
+      "description1": "Collecting and distributing clothing items to refugees, ensuring they have access to appropriate attire for different seasons and occasions.",
+      "title2": "Language and Cultural Orientation",
+      "category2": "Refugees",
+      "description2": "Offering language classes and cultural orientation programs to help refugees navigate their new environment, understand local customs, and develop language skills.",
+      "title3": "Education and Skills Development",
+      "category3": "Refugees",
+      "description3": "Offering access to educational programs, vocational training, and skills development workshops to enhance refugees' abilities and increase their employment prospects.",
+      "title4": "Outreach Services",
+      "category4": "Homeless",
+      "description4": "Sending outreach teams to engage with individuals living on the streets, providing them with necessities such as food, water, blankets, and clothing."
+    }
+  },
+  "about-page": {
+    "title": "About Us",
+    "paragraph-1": "Welcome to Tarabut, a charitable organization dedicated to making a positive impact in Britain 🇬🇧. Our mission is to provide essential support and assistance to those in need, with a focus on helping newcomers, promoting education, combating drug abuse, facilitating marriages, and providing support in challenging death cases.",
+    "paragraph-2": "One of our main goals at Tarabut is to assist newcomers to Britain. We understand that transitioning to a new country can be challenging, which is why we offer a range of services to help individuals adapt smoothly. From providing guidance on finding housing and employment opportunities to offering cultural integration programs, we strive to ensure that newcomers feel welcomed and supported in their new home.",
+    "paragraph-3": "Education plays a crucial role in empowering individuals and fostering personal growth. Tarabut is committed to providing educational programs that cater to diverse needs. We offer lessons in languages, including Arabic, Quran, and English, to help individuals develop their language skills and enhance their cultural understanding. By equipping them with these foundational tools, we aim to promote integration and empower them to succeed in their personal and professional lives.",
+    "paragraph-4": "Combatting drug abuse is an urgent issue that affects individuals and communities nationwide. At Tarabut, we recognize the importance of addressing this problem and supporting those who have been impacted by addiction. Through our comprehensive programs, we provide awareness, counseling, and rehabilitation services to help individuals overcome addiction and live healthier and happier lives. Our goal is to create a drug-free environment and contribute to building a stronger and more resilient society.",
+    "paragraph-5": "Tarabut also acknowledges the importance of building strong families and fostering relationships. We understand that marriage is a significant milestone in an individual's life and strive to facilitate this journey. We offer assistance in matchmaking and provide a platform for potential partners to meet in a supportive environment. Through our marriage facilitation programs, we aim to enhance healthy relationships and contribute to the formation of strong families in our community.",
+    "paragraph-6": "During times of loss and sorrow, Tarabut stands alongside individuals and families to provide support and assistance. We recognize that dealing with difficult death cases can be emotionally and financially draining. For this reason, we extend a helping hand to those in need of assistance in the burial process. Our dedicated team offers guidance, financial aid, and logistical support to ensure that individuals receive the care and support they require during these challenging times.",
+    "paragraph-7": "At Tarabut, we believe in the power of compassion and unity. Through a diverse range of programs and services we offer, we are committed to making a positive impact on individuals and communities throughout Britain. Our work becomes possible through the generosity of our supporters and volunteers, who share our vision in building a more inclusive and caring society.",
+    "paragraph-8": "Join us in our mission to create a better tomorrow. Together, we can make a difference and uplift the lives of those who need it most."
+  },
+  "contact-us-page": {
+    "title": "Contact Us",
+    "top-paragraph": "Thank you for your interest in Tarabut, a charitable organization dedicated to making a positive impact in the community. We value your support and would love to hear from you. Please feel free to reach out to us using the contact information below:",
+    "mobile": "Mobile",
+    "email": "E-mail",
+    "address": "Address",
+    "lower-paragraph-1": "Whether you have a question, a suggestion, or would like to get involved in our mission, our team is here to assist you. We strive to respond to all inquiries as promptly as possible.",
+    "lower-paragraph-2": "Thank you for considering Tarabut as a partner in creating positive change. We look forward to connecting with you soon."
+  }
+}

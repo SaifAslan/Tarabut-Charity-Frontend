@@ -1,0 +1,16 @@
+.standard-page-hero {
+  height: 310px;
+  width: 100%;
+  padding: 90px var(--general-horizontal-padding) 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  background: linear-gradient(
+    120deg,
+    rgba(53, 118, 106, 1) 40%,
+    rgba(37, 42, 52, 0.7) 40%
+  );
+  text-align: center;
+}
