@@ -32,7 +32,12 @@
       "title4": "Outreach Services",
       "category4": "Homeless",
       "description4": "Sending outreach teams to engage with individuals living on the streets, providing them with necessities such as food, water, blankets, and clothing."
-    }
+    },
+    "ourActivities": {
+      "ourActivities":"Our activities",
+      "subTitle": "Get to know our reacent activities"
+      }
+    
   },
   "about-page": {
     "title": "About Us",

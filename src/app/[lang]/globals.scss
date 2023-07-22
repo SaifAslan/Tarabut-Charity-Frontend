@@ -82,6 +82,15 @@ select {
   padding: 16px 32px;
   font-size: 16px;
   font-weight: 200;
+  text-transform: capitalize;
+
+  &:hover {
+    padding: 15px 31px;
+
+    color: var(--green);
+    background-color: white;
+    border: 1px solid var(--green);
+  }
 }
 .green-border-btn {
   color: white;
